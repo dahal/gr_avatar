@@ -8,9 +8,6 @@ module GrAvatar
 	end
 end
 
-
-#p GrAvatar.gr_avatar("pdahal@outlook.com")
-
 class String
 	include GrAvatar
 end

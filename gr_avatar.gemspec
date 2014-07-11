@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["pdahal@me.com"]
   spec.summary       = %q{Gravatar}
   spec.description   = %q{The most easiest way to get Gravatar URL.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/dahal/gr_avatar"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

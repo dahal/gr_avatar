@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/gr_avatar.svg)](http://badge.fury.io/rb/gr_avatar)
+
 # GrAvatar
 
 TODO: Write a gem description
