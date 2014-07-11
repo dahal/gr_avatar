@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+###How to use?
+This gem is preety simple and easy to use:
+
+```ruby
+	"your@email.com".gravatar
+```
 
 ## Contributing
 
