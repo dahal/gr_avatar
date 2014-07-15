@@ -2,7 +2,6 @@
 
 # GrAvatar
 
-TODO: Write a gem description
 
 ## Installation
 
@@ -19,12 +18,16 @@ Or install it yourself as:
     $ gem install gr_avatar
 
 ## Usage
+This gem could be used with:-
+	* User with Ruby on Rails
+	* Sinatra
+	* Any other Ruby App / Frameworks
 
 ###How to use?
 This gem is preety simple and easy to use:
 
 ```ruby
-	"your@email.com".gravatar
+  "your@email.com".gravatar
 ```
 
 ## Contributing
